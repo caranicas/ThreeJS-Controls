@@ -1,4 +1,11 @@
-ThreeJS-Controls
-================
+ThreeJS ControlsName Control
+===============
 
-Ports of Three JS controls. 
+UMD Port of ThreeJS ControlsName Control.
+
+
+[Source Code](https://github.com/mrdoob/three.js/blob/master/examples/js/controls/ControlsName.js)
+
+
+Bower Instructions:
+"controlsname": "https://github.com/caranicas/ThreeJS-Controls.git#branchname"
